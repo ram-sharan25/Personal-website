@@ -15,7 +15,7 @@ export default siteConfig({
   author: 'Ram Sharan Rimal',
 
   // open graph metadata (optional)
-  description: 'still_ness',
+  description: 'still-ness',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
