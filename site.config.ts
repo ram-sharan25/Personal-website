@@ -11,7 +11,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'My Personal Space',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'still-ness.vercel.app',
   author: 'Ram Sharan Rimal',
 
   // open graph metadata (optional)
@@ -19,7 +19,7 @@ export default siteConfig({
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
+  github: 'ram-sharan25',
   // linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
